@@ -103,7 +103,7 @@ export const AtmosphericBackground: React.FC = () => {
       <div
         className="absolute inset-0 bg-cover bg-center opacity-30 mix-blend-luminosity scale-105 transition-transform duration-1000"
         style={{
-          backgroundImage: `url('/src/assets/images/luxury_obsidian_matrix_bg_1793257582672.jpg')`
+          backgroundImage: `url('/ar2ha-portfolio/images/luxury_obsidian_matrix_bg_1793257582672.jpg')`
         }}
       />
 

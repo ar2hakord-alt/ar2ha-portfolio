@@ -103,7 +103,7 @@ export const OverviewView: React.FC<OverviewViewProps> = ({ onNavigate, projects
           <div className="lg:col-span-5 flex items-stretch">
             <div className="relative w-full h-[340px] sm:h-[400px] lg:h-full rounded-2xl overflow-hidden border border-amber-500/20 group shadow-[0_0_35px_rgba(0,0,0,0.8)]">
               <img
-                src="/src/assets/images/hero_ar2ha_cyber_luxury_1793256821465.jpg"
+                src="/ar2ha-portfolio/images/hero_ar2ha_cyber_luxury_1793256821465.jpg"
                 alt="ar2Ha Digital Monolith"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"

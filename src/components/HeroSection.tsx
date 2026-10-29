@@ -103,7 +103,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenOwnerModal }) =>
             <div className="relative w-full h-full min-h-[380px] lg:min-h-full rounded-2xl overflow-hidden obsidian-surface p-2 border border-white/10 shadow-2xl flex flex-col justify-between group">
               <div className="relative w-full h-full rounded-xl overflow-hidden min-h-[320px]">
                 <img
-                  src="/src/assets/images/hero_ar2ha_cyber_luxury_1793256821465.jpg"
+                  src="/ar2ha-portfolio/images/hero_ar2ha_cyber_luxury_1793256821465.jpg"
                   alt="ar2Ha Monolith Cyber Luxury Visual"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"

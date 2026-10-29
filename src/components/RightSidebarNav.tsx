@@ -114,7 +114,7 @@ export const RightSidebarNav: React.FC<RightSidebarNavProps> = ({
           {/* Centered Avatar */}
           <div className="w-13 h-13 sm:w-15 sm:h-15 rounded-full overflow-hidden border-2 border-emerald-500/60 p-0.5 bg-black/90 shadow-[0_0_18px_rgba(16,185,129,0.5)] group-hover:border-amber-400 group-hover:shadow-[0_0_22px_rgba(251,191,36,0.65)] transition-all">
             <img
-              src="/src/assets/images/hacker_back_to_camera_hoodie_1793258705291.jpg"
+              src="/ar2ha-portfolio/images/hacker_back_to_camera_hoodie_1793258705291.jpg"
               alt="Hacker back to camera in black hoodie"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover rounded-full group-hover:scale-115 transition-transform duration-500"

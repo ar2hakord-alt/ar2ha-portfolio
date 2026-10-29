@@ -22,7 +22,7 @@ export const DOMAINS: DomainItem[] = [
       'سخت‌سازی قفل‌های کاربری',
       'تست نفوذ عملیاتی'
     ],
-    image: '/src/assets/images/domain_cyber_security_1793256821854.jpg',
+    image: '/ar2ha-portfolio/images/domain_cyber_security_1793256821854.jpg',
     accentColor: '#10b981'
   },
   {
@@ -38,7 +38,7 @@ export const DOMAINS: DomainItem[] = [
       'بدون هنگی و مصرف باتری',
       'امنیت پایه در برابر حملات'
     ],
-    image: '/src/assets/images/hero_ar2ha_cyber_luxury_1793256821465.jpg',
+    image: '/ar2ha-portfolio/images/hero_ar2ha_cyber_luxury_1793256821465.jpg',
     accentColor: '#c5a059'
   },
   {
@@ -54,7 +54,7 @@ export const DOMAINS: DomainItem[] = [
       'حساب‌وکتاب خودکار بدون اشتباه',
       'اتصال مستقیم به سامانه‌ها'
     ],
-    image: '/src/assets/images/domain_telegram_bots_1793256822094.jpg',
+    image: '/ar2ha-portfolio/images/domain_telegram_bots_1793256822094.jpg',
     accentColor: '#d97706'
   },
   {
@@ -70,7 +70,7 @@ export const DOMAINS: DomainItem[] = [
       'منوهای ساده و همه کس‌فهم',
       'پایداری بالا بدون قفل کردن'
     ],
-    image: '/src/assets/images/domain_android_engineering_1793256822263.jpg',
+    image: '/ar2ha-portfolio/images/domain_android_engineering_1793256822263.jpg',
     accentColor: '#64748b'
   },
   {
@@ -86,7 +86,7 @@ export const DOMAINS: DomainItem[] = [
       'ابزارهای اختصاصی کسب‌وکار',
       'راهکارهای خارج از قاعده متداول'
     ],
-    image: '/src/assets/images/hero_ar2ha_cyber_luxury_1793256821465.jpg',
+    image: '/ar2ha-portfolio/images/hero_ar2ha_cyber_luxury_1793256821465.jpg',
     accentColor: '#a16207'
   }
 ];
