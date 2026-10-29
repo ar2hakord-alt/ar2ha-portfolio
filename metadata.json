@@ -1,0 +1,6 @@
+{
+  "name": "ar2Ha | آرشا محمدی",
+  "description": "پرتفولیو و پلتفرم تخصصی آرشا محمدی (ar2Ha) - تست نفوذ و امنیت سایبری، توسعه وب، ربات‌سازی و اپلیکیشن اندروید",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
