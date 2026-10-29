@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: / 
+Sitemap: https://ar2hakord-alt.github.io/ar2ha-portfolio/sitemap.xml 
